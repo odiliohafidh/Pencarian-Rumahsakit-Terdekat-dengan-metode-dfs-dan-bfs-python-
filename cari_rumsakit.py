@@ -72,3 +72,5 @@ def dfs(graf, mulai):
         isi = len(stack)
         if isi == 0:
             print("Tidak ditemukan")
+
+          
