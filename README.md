@@ -1,5 +1,3 @@
-# Pencarian-Rumahsakit-Terdekat-dengan-metode-dfs-dan-bfs-python-
-
 Pencarian Rumah Sakit Terdekat dengan metode DFS dan BFS (Python)
 ===========================
 
@@ -8,6 +6,6 @@ Pencarian Rumah Sakit Terdekat dengan metode DFS dan BFS (Python)
 
 ## Credits
 di develop dari modifikasi oleh
--Reo Cavallera
--Odilio Arys H A
--Proyek  AI A11.4606
+ - Reo Cavallera
+ - Odilio Arys H A
+ - Proyek  AI A11.4606 2017
