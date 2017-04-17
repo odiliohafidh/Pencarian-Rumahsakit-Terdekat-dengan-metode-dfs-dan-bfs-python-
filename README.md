@@ -1,5 +1,6 @@
 Pencarian Rumah Sakit Terdekat dengan metode DFS dan BFS (Python)
 ===========================
+pencarian rumah sakit terdekat dengan hanya menginputkan awalan dari node
 
 ## Graph Apps
 ![graph](https://raw.githubusercontent.com/odiliohafidh/Pencarian-Rumahsakit-Terdekat-dengan-metode-dfs-dan-bfs-python-/master/graph.jpg "graph")
